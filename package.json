@@ -1,8 +1,8 @@
 {
-  "name": "gis-art-test",
+  "name": "table-test",
   "description": "Test project",
   "version": "1.0.0",
-  "author": "iva Pelynon",
+  "author": "Ivan Pelyno",
   "license": "MIT",
   "private": true,
   "scripts": {
